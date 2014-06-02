@@ -42,3 +42,5 @@ public class Main{
 		}
 	}
 }
+
+// Good job, but SimpleArray array = new SimpleArray(9); should be in the Dice class...see slide #43-52 of W15 part 2.
